@@ -21,5 +21,37 @@
     <ClCompile Include="so2.h">
       <Filter>头文件</Filter>
     </ClCompile>
+    <ClCompile Include="co1.h">
+      <Filter>头文件</Filter>
+    </ClCompile>
+    <ClCompile Include="co3.h">
+      <Filter>头文件</Filter>
+    </ClCompile>
+    <ClCompile Include="co2.h">
+      <Filter>头文件</Filter>
+    </ClCompile>
+    <ClCompile Include="co4.h">
+      <Filter>头文件</Filter>
+    </ClCompile>
+    <ClCompile Include="co6.h">
+      <Filter>头文件</Filter>
+    </ClCompile>
+    <ClCompile Include="c05.h">
+      <Filter>头文件</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="co10.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="co7.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="co8.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="co9.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
