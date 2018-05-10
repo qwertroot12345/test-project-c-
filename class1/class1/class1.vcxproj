@@ -158,6 +158,7 @@
     <ClInclude Include="co7.h" />
     <ClInclude Include="co8.h" />
     <ClInclude Include="co9.h" />
+    <ClInclude Include="so3.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

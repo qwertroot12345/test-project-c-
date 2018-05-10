@@ -1,4 +1,0 @@
-﻿  co6.h
-c:\users\root\source\repos\test-project-c-\class1\class1\co6.h(8): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
-MSVCRTD.lib(exe_main.obj) : error LNK2019: 无法解析的外部符号 _main，该符号在函数 "int __cdecl invoke_main(void)" (?invoke_main@@YAHXZ) 中被引用
-C:\Users\root\Source\Repos\test-project-c-\class1\Debug\class1.exe : fatal error LNK1120: 1 个无法解析的外部命令
